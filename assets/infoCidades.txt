@@ -1,0 +1,70 @@
+Nome: Brasília (Brasil)
+Área: 5 779,997 km²
+População: 2 947 703 hab (IBGE/2018)
+Densidade Demográfica: 514,7 hab/km²
+Localização: 15° 47′ 38″ S 47° 52′ 58″ W
+______________________________________________________________
+
+Nome: Washington D.C. (EUA)
+Área: 177 km²
+População: 705 749 hab (2019)
+Densidade Demográfica: 3 921 hab/km²
+Localização: 38° 53' 42" N 77° 2' 11" W
+______________________________________________________________
+
+Nome: Cairo (Egito)
+Área: 3 085 km²
+População: 9,12 milhões hab (2011)
+Densidade Demográfica: 84,3 hab/km²
+Localização: 30° 03' N 31° 13' E
+______________________________________________________________
+
+Nome: Luanda (Angola)
+Área: 116 km²
+População: 2,572 milhões hab (2019)
+Densidade Demográfica: 369 hab/km²
+Localização: 8° 50' 18" S 13° 14' 04" E
+______________________________________________________________
+
+Nome: Londres (Inglaterra e Reino Unido)
+Área: 1 572 km²
+População: 8,982 milhões hab (2019)
+Densidade Demográfica: 5 598 hab/km² (Estimativa)
+Localização: 51° 30' 26" N 0° 07' 39" W
+______________________________________________________________
+
+Nome: Roma (Itália)
+Área: 1 285 km²
+População: 2,873 milhões hab (2017)
+Densidade Demográfica: 2 232 hab/km²
+Localização: 41° 53' 30" N 12° 30' 40" E
+______________________________________________________________
+
+Nome: Pequim (China)
+Área: 16 808 km²
+População: 21,54 milhões hab (2018)
+Densidade Demográfica: 1 167,3 hab/km²
+Localização: 39° 55' N 116° 23' E
+______________________________________________________________
+
+Nome: Nova Deli (Índia)
+Área: 42,7 km²
+População: 21,75 milhões hab (2011)
+Densidade Demográfica: 5 720,8 hab/km²
+Localização: 28° 37' N 77° 14' E
+______________________________________________________________
+
+Nome: Camberra (Austrália)
+Área: 814,2 km²
+População: 395 790 hab (2016)
+Densidade Demográfica: 442,6 hab/km²
+Localização: 35° 17' 35" S 149° 07' 37" E
+______________________________________________________________
+
+Nome: Port Moresby (Papua-Nova Guiné)
+Área: 240 km²
+População: 364 125 hab (2011)
+Densidade Demográfica: 1 010 hab/km²
+Localização: 9°29′ S 147°11′ O
+______________________________________________________________
+

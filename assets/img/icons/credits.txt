@@ -1,0 +1,12 @@
+{globo.png,
+brasil.png,
+eua.png,
+egito.png,
+angola.png,
+reino_unido.png,
+italia.png,
+china.png}: Ícones feitos por Freepik de www.flaticon.com
+
+programador.png: Ícone feito por Nikita Golubev de www.flaticon.com
+
+globo2.png: Ícone editado por Gustavo Herrero Nunes usando "globo.png" feito por Freepik de www.flaticon.com
